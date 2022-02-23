@@ -112,4 +112,3 @@ CLASS net/minecraft/unmapped/C_otltijcb net/minecraft/SharedConstants
 	METHOD m_redqmfkb isVoidTerrain (Lnet/minecraft/unmapped/C_ynrszrtu;)Z
 		ARG 0 chunkPos
 	METHOD m_rugsknyf getGameVer ()Lnet/minecraft/unmapped/C_xyxorzsk;
-	METHOD invalid invalidMapping ()V
